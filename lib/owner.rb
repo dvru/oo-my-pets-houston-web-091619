@@ -56,7 +56,7 @@ end
 end 
 end 
   
-  
+  def se
   
   
   
