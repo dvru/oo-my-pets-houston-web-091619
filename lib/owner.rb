@@ -46,6 +46,15 @@ end
     Dog.new(name,self)
   end 
   
+  def walk_dog
+  self.dogs.each do |dog| dog.mood = 'happy'
+end 
+end 
+  
+  
+  
+  
+  
   
   
 end
