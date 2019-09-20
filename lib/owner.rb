@@ -56,7 +56,13 @@ end
 end 
 end 
   
-  def se
+  def sell_pets
+    pets = self.dogs + sell.cats 
+  pets.each do |pets| 
+    pet.mood = 'nervous'
+    pet.owner = nil 
+  end 
+end 
   
   
   
